@@ -1,6 +1,10 @@
-require "Homes/version"
+require 'nokogiri'
+require 'open-uri'
+require 'pry'
 
-module Homes
-  class Error < StandardError; end
-  # Your code goes here...
-end
+
+
+require_relative "./Homes/version"
+require_relative './Homes/cli'
+require_relative './homes/scrape'
+require_relative './homes/houses'

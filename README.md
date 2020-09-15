@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This CLI will help you pick from a collection of homes in the Austin area.
 
 ## Development
 
