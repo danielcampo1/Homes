@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-This CLI will help you pick from a collection of homes in the Austin area.
+This CLI will help you pick from homes that are in a certain area of austin and will return all the homes for that are for sale. And when you find the specific one you would like to look more into, you just type in the listing number and it will return the URL for that specific listing with more details of that property. 
+
+
 
 ## Development
 
@@ -32,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/<github username>/Homes. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/<github username>/Homes/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/danielcampo1/Homes. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/<github username>/Homes/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## License

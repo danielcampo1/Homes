@@ -3,10 +3,10 @@ require_relative 'lib/Homes/version'
 Gem::Specification.new do |spec|
   spec.name          = "Homes"
   spec.version       = Homes::VERSION
-  spec.authors       = ["<github username>"]
-  spec.email         = ["<github email address>"]
+  spec.authors       = ["Danielcampo1"]
+  spec.email         = ["campo_daniel94@yahoo.com"]
 
-  spec.summary       = %q{first one ever}
+  spec.summary       = %q{first one ever!}
   spec.homepage      = "https://github.com/danielcampo1/Homes.git"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
